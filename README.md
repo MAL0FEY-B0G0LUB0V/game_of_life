@@ -9,4 +9,4 @@ Conwey's game of life
 // pip install requests
 // and if needed "pip install name_of_library_from_requirements.txt"
 
-![image](https://github.com/MAL0FEY-B0G0LUB0V/gameOFLIfe/blob/master/Desktop-2022.11.07-11.40.52.02.gif)
+![image](https://github.com/MAL0FEY-B0G0LUB0V/game_of_life/blob/master/Desktop-2022.11.07-11.40.52.02.gif)
