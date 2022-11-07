@@ -2,13 +2,12 @@
 Conwey's game of life 
 
   # How to set up an venv
-  
-     ```console
+  ```console
      Get-ExecutionPolicy  
      Set-ExecutionPolicy -Scope CurrentUser unrestricted  
      Python -m venv name_of_your_venv  
      Python .\name_of_your_venv\Scripts\activate
-     ``` 
+  ``` 
      
   ## then install all libs from file requirements.txt  
   
