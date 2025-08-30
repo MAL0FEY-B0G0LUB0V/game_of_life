@@ -2,12 +2,20 @@
 Conway's game of life 
 
   # How to setup a virtual environment
+  ### Windows:
   ```console
-     python -m venv name_of_your_venv  
+     python -m venv name_of_your_venv
      python .\name_of_your_venv\Scripts\activate
   ``` 
-     
-  * then pip install -r requirements.txt
+  
+  ### Linux:
+  ```console
+    python3 -m venv name_of_your_venv
+    source ./name_of_your_venv/bin/activate
+  ```
+  Global step (in a virtual environment):
+  * `pip install -r requirements.txt`
+  
   
 
 ![image](https://github.com/MAL0FEY-B0G0LUB0V/game_of_life/blob/master/Desktop-2022.11.07-11.40.52.02.gif)
